@@ -1,0 +1,50 @@
+
+body {background-color: grey;
+
+}
+h1 {
+    width: 200px;
+    padding: 25px;
+    margin: 25px;
+    background-color: blueviolet;
+
+}
+
+.nav {
+    width: 100%; 
+    background: white;
+
+}
+#aboutme {
+    width: 1000px;
+    height:960px;
+    padding: 25px;
+    border: 1px solid black;
+    background: white;
+    
+    
+
+}
+
+#portfolio {
+    width:1000px;
+    padding:25px;
+    border: 1px solid black;
+}
+
+
+
+#my_pic {
+    float: left;
+}
+
+h2 {
+    border-bottom: 2px solid purple;
+
+}
+
+nav {float:right;
+    
+}
+
+
